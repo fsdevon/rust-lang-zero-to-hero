@@ -1,5 +1,5 @@
 [package]
-winame = "minigrep_fsdevon"
+name = "minigrep_fsdevon"
 version = "0.1.0"
 authors = ["fsdevon <fullstackdevovernight@gmail.com>"]
 edition = "2018"
